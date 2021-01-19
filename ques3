@@ -7,8 +7,7 @@
 </head>
 <body>
   
-</body>
-</html>
+<script>
 var x,y,chr;
 for(x=1; x <=6; x++)
 {
@@ -19,3 +18,13 @@ for(x=1; x <=6; x++)
  console.log(chr);
  chr='';    
 }
+<script>
+</body>
+</html>
+
+output:
+*  * * * *  
+* * *  * 
+* * *   
+* *  
+*  
