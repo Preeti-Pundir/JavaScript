@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>email addresses to protec</title>
+</head>
+<body>
 <script>
 protect_email = function (user_email) {
 var avg, splitted, part1, part2;
@@ -11,5 +18,6 @@ return part1 + "...@" + part2;
 
 console.log(protect_email("eddygrant@example.com"));
 </script>
+</body></html>
 
 output:eddygrant@example.com
